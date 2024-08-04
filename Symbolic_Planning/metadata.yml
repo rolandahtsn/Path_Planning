@@ -1,0 +1,12 @@
+---
+:id: 215377495
+:submitters:
+- :name: Rolanda Hutson
+  :email: rhutson@andrew.cmu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-11-27 01:54:23.954426000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-11-26 17:54:23.954426000 Z
+:status: processed
+:score: 100.0
